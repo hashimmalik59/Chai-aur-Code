@@ -1,7 +1,2 @@
-let age = 18;
-if(age > 17){
-    console.log("Adult!");
-}
-else{
-    console.log("Not Adult!");
-}
+const age = 23;
+console.log(age);
